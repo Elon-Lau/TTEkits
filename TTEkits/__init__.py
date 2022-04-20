@@ -1,3 +1,1 @@
-# Version o module
-
-__version__ = 1.0.0
+from hello import sayhello
