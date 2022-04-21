@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="helloworld",
+    name="TTEkits",
     version='0.0.1',
     description="Say hello!",
-    py_modules=["helloworld"],
-    package_dir={'': 'src'},
+    py_modules=["helloworld","TTE"],
+    package_dir={'': 'TTEkits'},
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.6",
