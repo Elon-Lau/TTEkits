@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setup(
     name="TTEkits",
-    version='0.0.1',
-    description="Say hello!",
-    py_modules=["helloworld","TTE"],
+    version='0.0.6',
+    description="This is a travel time estimation Python Library!",
+    py_modules=["TTE"],
     package_dir={'': 'TTEkits'},
     classifiers=[
         "License :: OSI Approved :: MIT License",

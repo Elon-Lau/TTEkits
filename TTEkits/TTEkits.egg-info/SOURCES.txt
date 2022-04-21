@@ -1,8 +1,6 @@
 LICENSE
 README.md
 setup.py
-TTEkits/TTE.py
-TTEkits/helloworld.py
 TTEkits/TTEkits.egg-info/PKG-INFO
 TTEkits/TTEkits.egg-info/SOURCES.txt
 TTEkits/TTEkits.egg-info/dependency_links.txt
